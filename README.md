@@ -11,32 +11,32 @@ Table of Contents
     Contributing
     Author
 
-Overview
+##Overview
 
 This program provides basic functionalities for managing a hotel's room bookings and customer records. It allows you to book rooms, view customer details, check room availability, modify customer records, delete records, and generate bills based on the room type.
 Features
 
-    Book a room
-    Display customer records
-    View allotted rooms
-    Edit customer records
-    Delete customer records
-    Generate bills for customers
+- Book a room
+- Display customer records
+- View allotted rooms
+- Edit customer records
+- Delete customer records
+- Generate bills for customers
 
-Installation
+## Installation
 
-    Clone the repository to your local machine.
-    Open the project in an appropriate C++ development environment.
-    Compile the code.
-    Run the compiled executable.
+1. Clone the repository to your local machine.
+2. Open the project in an appropriate C++ development environment.
+3. Compile the code.
+4. Run the compiled executable.
 
-Usage
+## Usage
 
-    Run the executable.
-    Follow the on-screen instructions to navigate the menu.
-    Choose the desired options to manage room bookings and customer records.
+1. Run the executable.
+2. Follow the on-screen instructions to navigate the menu.
+3. Choose the desired options to manage room bookings and customer records.
 
-License
+## License
 
 This project is licensed under the MIT License.
 Contributing
@@ -44,37 +44,7 @@ Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 Author
 
-    Yousef (GitHub: yousefsabry)
+    Yousef (GitHub: mehrshadina)
 
-This program provides basic functionalities for managing a hotel's room bookings and customer records. It allows you to book rooms, view customer details, check room availability, modify customer records, delete records, and generate bills based on the room type.
-Features
 
-    Book a room
-    Display customer records
-    View allotted rooms
-    Edit customer records
-    Delete customer records
-    Generate bills for customers
-
-Installation
-
-    Clone the repository to your local machine.
-    Open the project in an appropriate C++ development environment.
-    Compile the code.
-    Run the compiled executable.
-
-Usage
-
-    Run the executable.
-    Follow the on-screen instructions to navigate the menu.
-    Choose the desired options to manage room bookings and customer records.
-
-License
-
-This project is licensed under the MIT License.
-Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-Author
-
-    Yousef (GitHub: yousefsabry)
+Note: This program is for educational purposes and may require updates or enhancements for production use.
