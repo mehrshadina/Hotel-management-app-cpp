@@ -44,7 +44,7 @@ Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 Author
 
-    Yousef (GitHub: mehrshadina)
+    (GitHub: mehrshadina)
 
 
 Note: This program is for educational purposes and may require updates or enhancements for production use.
