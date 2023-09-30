@@ -461,7 +461,7 @@ hotel h;
 cout<<"\n\t\t\t****************************";
 cout<<"\n\t\t\t* HOTEL MANAGEMENT PROJECT *";
 cout<<"\n\t\t\t****************************";
-cout<<"\n\n\t\tDeveloped By:";
+cout<<"\n\n\t\tDeveloped By: Mehrshadina";
 cout<<"\t Yousef!";
 cout<<"\n\n\n\n\n\n\n\t\t\t\t\tPress any key to continue....!!";
 
